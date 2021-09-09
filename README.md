@@ -14,6 +14,7 @@ An object detection model was created, which detects the errors in the metal par
 |[model_main_tf2.py](https://github.com/Onurryilmazz/object-detection---faulty-production-detection/blob/main/model_main_tf2.py "model_main_tf2.py")        |`script to train our model"` 
 |[tf_image.py](https://github.com/Onurryilmazz/object-detection---faulty-production-detection/blob/main/tf_image.py "tf_image.py")|`script where we run our model`                        
 |[xml_to_csv.py](https://github.com/Onurryilmazz/object-detection---faulty-production-detection/blob/main/xml_to_csv.py "xml_to_csv.py")          |`Script to convert xml files to csv"` 
+|[data](https://github.com/Onurryilmazz/Object-Detection-Faulty-Production-detection/tree/main/data "data")|`Folder with data` 
 
 > Note: : I used Tensorflow's Object Detection API to perform object detection on images.
 
