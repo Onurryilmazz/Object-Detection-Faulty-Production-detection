@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>impact98.jpg</filename>
+	<path>C:\Users\onury\Desktop\tensorflow\workspace\training_demo\images\test\impact98.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>DefectTypeB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>145</xmin>
+			<ymin>96</ymin>
+			<xmax>196</xmax>
+			<ymax>130</ymax>
+		</bndbox>
+	</object>
+</annotation>

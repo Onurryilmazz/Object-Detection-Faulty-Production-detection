@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>stain149.jpg</filename>
+	<path>C:\Users\onury\Desktop\tensorflow\workspace\training_demo\images\train\stain149.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>DefectTypeA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>117</xmin>
+			<ymin>234</ymin>
+			<xmax>148</xmax>
+			<ymax>263</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>scratch118.jpg</filename>
+	<path>C:\Users\onury\Desktop\tensorflow\workspace\training_demo\images\train\scratch118.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>DefectTypeC</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>260</xmin>
+			<ymin>205</ymin>
+			<xmax>392</xmax>
+			<ymax>333</ymax>
+		</bndbox>
+	</object>
+</annotation>

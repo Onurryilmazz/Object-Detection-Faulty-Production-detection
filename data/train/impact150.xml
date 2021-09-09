@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>impact150.jpg</filename>
+	<path>C:\Users\onury\Desktop\tensorflow\workspace\training_demo\images\train\impact150.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>DefectTypeB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>326</xmin>
+			<ymin>84</ymin>
+			<xmax>372</xmax>
+			<ymax>131</ymax>
+		</bndbox>
+	</object>
+</annotation>
